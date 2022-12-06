@@ -1,0 +1,4 @@
+numpy==1.22.2
+matplotlib==3.5.1
+sklearn
+xgboost>=1.6.2
